@@ -1,0 +1,3 @@
+#just for noting the packages installed
+
+ipykernal
